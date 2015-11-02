@@ -3,4 +3,9 @@ Bilbo sauta à bas de son lit et, après avoir enfilé sa robe de chambre, il se
 Cosu
 =======
 TEST
+<<<<<<< HEAD
 >>>>>>> Test SVN
+=======
+Le lavage de la vaisselle était tristement réel.
+
+>>>>>>> Vaisselle

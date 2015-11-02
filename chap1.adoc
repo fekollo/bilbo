@@ -4,8 +4,14 @@ Cosu
 =======
 TEST
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Test SVN
 =======
+=======
+>>>>>>> 5967724... Gandalf
 Le lavage de la vaisselle était tristement réel.
+=======
+Bilbo se mit à siffler avec force et à oublier Gandalf.
+>>>>>>> Gandalf
 
 >>>>>>> Vaisselle
